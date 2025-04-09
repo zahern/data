@@ -1,0 +1,6 @@
+Variable,Coefficient_Type,Coefficient_Value
+X1,Fixed,2.0
+X2,Fixed,-3.0
+X3,Uniform,-1.254598811526375
+X4,Uniform,4.507143064099161
+X5,Normal,1.295377076201385
